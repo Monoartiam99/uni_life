@@ -242,7 +242,7 @@ unilife/
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 > *(Coming soon — screenshots will be added after UI completion)*
 
@@ -305,7 +305,7 @@ Please make sure your code follows the existing code style and includes relevant
 
 ---
 
-## 📄 License
+##  License
 
 Distributed under the **MIT License**.  
 See [`LICENSE`](LICENSE) for full details.
