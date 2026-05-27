@@ -95,7 +95,7 @@ Stay on top of every deadline without the anxiety. Features include:
 
 ---
 
-### 📚 Notes Sharing
+###  Notes Sharing
 A collaborative academic resource hub for your batch and department:
 - Upload and share notes, PDFs, slides, and handwritten scans
 - Browse notes by subject, semester, or topic
