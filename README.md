@@ -32,7 +32,7 @@
 
 </div>
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [About the Project](#-about-the-project)
 - [Why UniLife?](#-why-unilife)
@@ -48,7 +48,7 @@
 
 ---
 
-## 🧠 About the Project
+##  About the Project
 
 University life is exciting — but also overwhelming. Between managing lectures, assignments, group projects, exams, and finances, students often feel scattered and stressed. Most existing apps solve *one* problem at a time, forcing students to juggle 5–6 different tools.
 
@@ -60,7 +60,7 @@ This project was created with a deep understanding of student pain points, espec
 
 ---
 
-## 💡 Why UniLife?
+##  Why UniLife?
 
 | Problem | UniLife Solution |
 |---|---|
@@ -73,9 +73,9 @@ This project was created with a deep understanding of student pain points, espec
 
 ---
 
-## ✨ Features
+##  Features
 
-### 📅 Attendance Tracker
+###  Attendance Tracker
 Never fall below your required attendance percentage again. UniLife lets you:
 - Log attendance for each subject separately
 - Automatically calculate your current attendance percentage
@@ -85,7 +85,7 @@ Never fall below your required attendance percentage again. UniLife lets you:
 
 ---
 
-### 📝 Assignment Reminder
+###  Assignment Reminder
 Stay on top of every deadline without the anxiety. Features include:
 - Add assignments with subject name, deadline date & time, and priority level
 - Receive **push notifications** before the deadline (24 hrs, 6 hrs, 1 hr)
@@ -105,7 +105,7 @@ A collaborative academic resource hub for your batch and department:
 
 ---
 
-### 💰 Budget Tracking
+###  Budget Tracking
 Student life on a budget — made manageable:
 - Set a monthly budget and track spending in real time
 - Categorize expenses: food, transport, books, entertainment, etc.
@@ -116,7 +116,7 @@ Student life on a budget — made manageable:
 
 ---
 
-### 🎯 CGPA Calculator
+###  CGPA Calculator
 Stop guessing your grades — know them:
 - Enter your course credits and grades to instantly compute your CGPA
 - Supports standard **4.0 and 5.0 GPA scales** (configurable)
@@ -126,7 +126,7 @@ Stop guessing your grades — know them:
 
 ---
 
-### ⏱️ Study Timer
+###  Study Timer
 Build focus. Beat procrastination. Study smarter:
 - **Pomodoro technique** built-in: 25-minute focus sessions with short breaks
 - Customizable session lengths and break intervals
@@ -137,7 +137,7 @@ Build focus. Beat procrastination. Study smarter:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 > *(Update with your actual stack)*
 
@@ -166,7 +166,7 @@ Build focus. Beat procrastination. Study smarter:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -256,7 +256,7 @@ unilife/
 
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
 ### Phase 1 — Foundation ✅
 - [x] Project concept & feature planning
@@ -274,7 +274,7 @@ unilife/
 - [ ] Budget Tracker with visual charts
 - [ ] Study Timer with Pomodoro mode
 
-### Phase 4 — Polish & Launch 🚀
+### Phase 4 — Polish & Launch 
 - [ ] UI polish and dark mode
 - [ ] Performance optimization
 - [ ] Beta testing with real students
@@ -282,7 +282,7 @@ unilife/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are what make open-source projects thrive. If you'd like to help build UniLife:
 
@@ -312,13 +312,14 @@ See [`LICENSE`](LICENSE) for full details.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Your Name**
-
-- 🌐 GitHub: [@your-username](https://github.com/your-username)
-- 📧 Email: your@email.com
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- Arpita
+- Monojit
+- Snehasis
+- Avijit
+- Muskan
 
 ---
 
