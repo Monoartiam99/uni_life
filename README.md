@@ -258,18 +258,18 @@ unilife/
 
 ##  Roadmap
 
-### Phase 1 — Foundation ✅
+### Phase 1 — Foundation 
 - [x] Project concept & feature planning
 - [x] UI/UX wireframing
 - [x] Repository setup
 
-### Phase 2 — Core Development 🔄
+### Phase 2 — Core Development 
 - [ ] User authentication (login/signup)
 - [ ] Attendance Tracker module
 - [ ] Assignment Reminder with notifications
 - [ ] CGPA Calculator
 
-### Phase 3 — Advanced Features 📋
+### Phase 3 — Advanced Features 
 - [ ] Notes Sharing with file upload
 - [ ] Budget Tracker with visual charts
 - [ ] Study Timer with Pomodoro mode
